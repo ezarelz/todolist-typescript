@@ -1,4 +1,4 @@
-# Manual TS Unleashed — Todo List (TypeScript)
+# TS Unleashed — Todo List (TypeScript)
 
 Project latihan CLI sederhana untuk belajar **TypeScript**: type alias, union types, dan fungsi dasar (add, complete, delete, sort, search, print).
 
@@ -51,13 +51,13 @@ Bisa juga kalau mau secara global di enviroment local computer jalakan
 npm install -g typescript
 ```
 
-3.Konfigurasi file tsconfig dan cara membuatnya jika belum ada
+Periksa version Typescript
 
 ```bash
-npx tsc --init
+tsc -v
 ```
 
-atau kalau kamu sudah install TypeScript global:
+3.Konfigurasi file tsconfig dan cara membuatnya jika belum ada
 
 ```bash
 tsc --init
