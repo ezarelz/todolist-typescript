@@ -51,7 +51,7 @@ Bisa juga kalau mau secara global di enviroment local computer jalakan
 npm install -g typescript
 ```
 
-3. Buat file **tsconfig.json** di root project (contoh sesuai screenshot):
+3. Buat file **tsconfig.json** di root project:
 
 ```json
 {
