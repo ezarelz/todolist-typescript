@@ -1,4 +1,4 @@
-# TS Unleashed — Todo List (TypeScript)
+# TS Unleashed - Todo List (TypeScript)
 
 Project latihan CLI sederhana untuk belajar **TypeScript**: type alias, union types, dan fungsi dasar (add, complete, delete, sort, search, print).
 
